@@ -1,0 +1,8 @@
+{
+  "name": "odyssey",
+  "logo": "",
+  "rpc_url": "http://46.250.224.190:9944",
+  "explorer_url": "http://46.250.224.190:4000",
+  "metrics_endpoint": "http://46.250.224.190:9615/metrics",
+  "id": "508433d1-e88c-46c2-ad65-c3448346145c"
+}
